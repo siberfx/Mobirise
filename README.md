@@ -10,6 +10,399 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
 
+# Mobirise 5.3
+
+## Interface
+### Design
+* New loader look
+* Scrollbar styling added
+
+<img src="https://mobirise.com/assets-history-5/images/scrollbar.png">
+
+* Added dark inline editor panel in the dark mode
+
+<img src="https://mobirise.com/assets-history-5/images/dark-inline.png">
+
+### Sites management
+* Now you can create sites based on a template from another theme
+* Sites panel - search by name & domain added
+* Create New Site panel - newest themes shown on top of the list
+* Search through all templates when adding a new page: go to Pages and click Create New Page to see the list of available templates
+
+<img src="https://mobirise.com/assets-history-5/images/temps.jpg">
+
+### Drag Block to Page panel
+* Search through all Mobirise blocks
+
+<img src="https://mobirise.com/assets-history-5/images/search.jpg">
+
+* Added Show More buttons at the end of each blocks' group
+
+<img src="https://mobirise.com/assets-history-5/images/by-block.jpg">
+
+* Updated block groups (added new block groups, renamed and sorted the old ones) for free Mobirise themes
+* Added shadows to the show more blocks button on hover
+* Added new blocks categories to default themes, fixed the search for similar blocks
+
+### Domain connection
+* Updated DNS records: new DNS record types available
+* Connecting domain via CNAME record added
+
+### Extensions panel
+* Added Add All button
+
+<img src="https://mobirise.com/assets-history-5/images/add-all.jpg">
+
+### Code Editor
+* Highlight matching tags in HTML
+
+<img src="https://mobirise.com/assets-history-5/images/highlight.jpg">
+
+### Icons
+* SVG icons instead of iconfont files in pages to improve loading speed
+
+### Other updates
+* Improved loading speed of user sites by optimized connection of Google Fonts
+* If there is something wrong with the project code, you'll see a note about an issue
+
+
+## Themes
+### Mobirise 5
+* Added compatibility with the Form Builder extension
+* Fixes for alignment on mobile devices
+* Fixes for logo images in the navbar
+* Fixed the scroll-to-top arrow on mobile view
+* Added paddings to the logo in the menu
+* Socicon plugin font now supports "font-display: swap" for better optimization
+* Fixed menu brand name underline
+* New block categories
+
+### AudioM4
+* Features 3, 4, 6: Changed background images to usual img, to have an opportunity to insert link on image
+* Features 4, 6: Added the ability to disable swinging and glare animation
+* Added square cards option (square music album covers are the industry standard)
+* Added range parameter to change size of cover
+* Added buttons option (if all animation is enabled, there may be problems with following the link in the image, despite the accepted changes)
+
+### LuxuryM4
+* Fixed incompatibility issues with Mobirise 5
+* Fixed broken logos in the menu
+* Aligning pictures in team2
+* Moving the send button in form1 and form3, an extra once global attributes in form 2
+
+### BusinessM4
+* Fixed images in Clients1
+* Renamed all images in clients-white folder, to avoid intersections with images from clients folder after publication or preview
+
+### TherapyM4
+* Fixed team2 uneditable card content
+* Added pointer-events rules, to be able to edit the text and link that appear on image hover
+
+### KidsM4
+* Fixes for options for menu background & text color option on mobile
+
+### ConnectM4
+* Reduced resolution to upscale the font-size from 1200 to 1199px and 992 to 991px
+
+### KidsM4 & AgencyM4
+* Fixed incompatibility issues with Mobirise 5, fixed the codestyle and menu, added theme classes
+
+### LightAMP
+* Fixed bugs in menus
+
+## Fixes
+* Github publishing method fixed
+* Fixed and updated DNS records: new DNS record types available
+* Extensions panel - fixed the search
+* Fixed the position for the custom HTML block
+* Fixes for the theme installation when choosing an unavailable theme
+* App Settings - fixed saving Remove Mobirise from HTML setting
+* Link-editor: fixed shop links in AMP themes
+* Fixes for the fonts connection issue
+
+# Mobirise 5.2
+## Core
+* <b>Bootstrap</b> version updated in the app to 4.5.2 
+* <b>Electron</b> version updated in the app to v10
+
+## Interface
+* New <b>Blocks Menu</b> panel. Browse through blocks more conveniently due to the enlarged page view
+
+<img src="https://mobirise.com/assets-history-5/images/add_blocks.jpg">
+
+* <b>Spellchecker</b>: check and correct mistakes directly in the app
+* <b>Add Blocks List</b>: all compatible blocks are available w/o theme reloading and user blocks. Select a compatible theme to see a blocks list
+
+<img src="https://mobirise.com/assets-history-5/images/blocks_from.jpg">
+
+* <b>Pages List</b>: Search available
+
+<img src="https://mobirise.com/assets-history-5/images/pages.jpg">
+
+* You can download all the extensions available for you. Open the Extensions list and press <b>Ctrl+Shift+A</b>
+* <b>Don't show again</b> option for remove block, create site and open site dialogs.
+* Updated <b>Remove Unused Images</b>
+* Faster <b>Sites</b> panel
+
+## Mobirise 5 theme
+* <b>Ghost Button Border</b> option in <b>Site Styles</b>
+* 5 new blocks - headers and footers
+* <b>Logo Size</b> option for footers
+* Fixes in some block designs
+* Fix with tab anchor renaming
+* Duplicated code and CSS removed
+* Some fixes in block designs
+
+## Fixes
+* Fix in Code Editor "click twice to save"
+* Fix for "Social Sharing Image"
+* Fix for sorting blocks
+* Google maps fix
+* Code syntax verification fix in Code Editor
+* Fix for custom HTML in M3
+
+# Mobirise 5.0
+## Core
+* <b>Brand-new engine</b>. The app is upto 2 time faster, especially on large projects. 
+* <b>Bootstrap</b> version updated in the app to 4.5.0 
+* <b>jQuery</b> version updated in the app to v3.5.1
+* Themes can be added faster (the app is not reloading if the theme is not current)
+
+## Interface
+* <b>Light/Dark mode</b>. The Light mode is enabled by default in the app now. But if it's more comfortable for your to use the dark mode, open app settings (Menu -> Account -> App Settings -> Editor -> Dark Mode)
+* The <b>Remove Unused Images</b> button added in Site Library.
+* Sites published on Mobirise servers are shown in the Sites list now. If you remove them, they will not be available online anymore
+* New Sites panel available in the app. Now it's in a full-screen mode
+* Image Editor: New function in <b>Image Editor</b>: <b>Rotate</b>
+* Favicon and page name are shown in navbar
+* Canvas with borders. You can disable this feature in your app settings (Menu -> Account -> App Settings -> Editor -> Fullscreen Canvas).
+* You can connect your site domain with the site published via the <b>Mobirise Publish</b> option. Find this feature in your Site Settings after publishing your site.
+
+<img src="https://mobirise.com/assets-history-5/images/new-sites-list-1002x602.jpg">
+<i>New Sites List view available in Mobirise 5</i>
+
+<img src="https://mobirise.com/assets-history-5/images/dark-mode-1002x602.jpg">
+<i>You can enable Dark Mode in App Settings</i>
+
+<img src="https://mobirise.com/assets-history-5/images/edit-canvas-1002x602.jpg">
+<i>You can disable your project borders by enabling the Fullscreen Canvas option</i>
+
+<img src="https://mobirise.com/assets-history-5/images/remove-unused-images-1002x602.jpg">
+<i>Clear your site library by removing images you don't use in a project</i>
+
+<img src="https://mobirise.com/assets-history-5/images/link-domain-1002x602.jpg">
+<i>The site domain settings will appear in your Site Settings after publishing your site via the Mobirise Publish option</i>
+
+## Fixes
+* Saving user blocks is fixed
+* <b>AMP Cache issue</b> fixed. Earlier some of our users faced some issues with AMP blocks: galleries, sliders, accordions were not usable because of saved cached files. There was no simple way to clear the cache folder. This issue is fixed now.
+* Sliders and Galleries optimized in the app. This fix may not affect already created galleries, but new galleries and sliders should work faster
+* <b>Mobirise 4 Theme</b>: youtu.be links are supported, forms are cleared after submitting, gallery and form fixes
+* <b>MobiriseAMP Theme</b>: update menu, fixed 'scroll to top button'
+* Issue with $ symbols cleared is fixed
+* Parallax fixes
+* Link Editor: WhatsApp link fixed  
+* Form Builder fixes
+* Google Maps fixed
+
+## Extensions
+* <b>Code Editor: Global HTML Insert</b> available in Site Settings. You can add the HTML lang tag in it and add code snippets to the various parts of your pages. Since this feature is global, your code will be added to all pages in your project.
+* <b>New default theme</b> available in the app: <b>Mobirise 5</b>. Start a new project and select the Mobirise 5 theme to check it.
+
+<img src="https://mobirise.com/assets-history-5/images/global-html-insert-1002x602.jpg">
+<i>Install the Code Editor extension to find the Global HTML Insert tab in Site Settings</i>
+
+# Mobirise v4.12.4
+* LazyLoad Extension fixes
+* Social Icons are updated
+* Form Builder Small fixes
+* youtu.be links are supported now
+* Fixed saving the Resize Images site setting
+* Minor fixes
+
+# Mobirise v4.12
+* Important: After the 4.12 is installed, update your extensions in "Menu->Extensions->Update All" and then restart the Mobirise
+* Compatibility with MacOs Catalina
+* FTP profile is filled from a project file
+* User Blocks search added
+* Issues with project import/export with different fonts fixed
+* Fixed saving the Resize Images site setting
+* Blockpack for M4
+* Minor fixes
+
+## DinerM4
+* <a href="https://mobirise.com/extensions/dinerm4/">DinerM4</a> - Great Bootstrap cafe theme. It's the perfect choice for owners of pizzerie, tea-houses, cafeterias and other restaurants.
+
+<a href="https://mobirise.com/extensions/dinerm4/"><img src="https://mobirise.com/assets-history-4/images/dinerm4-1200.jpg"></a>
+
+## AudioM4
+* <a href="https://mobirise.com/extensions/audiom4/">AudioM4</a> - Need a stunning website for your songs? Feel free to use this exceptional music theme with great looking designs!
+
+<a href="https://mobirise.com/extensions/audiom4/"><img src="https://mobirise.com/assets-history-4/images/audiom4-1200.jpg"></a>
+
+## BlockPack for M4
+* <a href="https://mobirise.com/extensions/blockpackm4/">BlockPack for M4</a> - 350+ best and most unique blocks from premium Mobirise themes. Compatible with all M4 themes.
+
+<a href="https://mobirise.com/extensions/blockpackm4/"><img src="https://mobirise.com/assets-history-4/images/bp-demo-h.jpg"></a>
+
+## InnovationAMP
+* <a href="https://mobirise.com/extensions/innovationamp/">InnovationAMP</a> - Multipurpose theme for corporate and science websites. Let your future website look innovative and ultra-modern!
+
+<a href="https://mobirise.com/extensions/innovationamp/"><img src="https://mobirise.com/assets-history-4/images/innovation-demo-h.jpg"></a>
+
+## BranchM4
+* <a href="https://mobirise.com/extensions/branchm4/">BranchM4</a> - Well-designed corporate theme for small and medium businesses. Use this theme to create a website for your company or agency with a unique and professional look.
+
+<a href="https://mobirise.com/extensions/branchm4/"><img src="https://mobirise.com/extensions/branchm4/assets/images/branchm4-1-2880x1497.jpg"></a>
+
+
+
+## KidsM4 Theme
+* <a href="https://mobirise.com/extensions/kidsm4/">KidsM4 Theme</a> - A cute website template perfect for preschools and babysitting. It also suits online stores selling children clothes and toys. Create a kids related site with ease!
+
+<a href="https://mobirise.com/extensions/kidsm4/"><img src="https://mobirise.com/extensions/kidsm4/assets/images/screen2-1920x762.jpg"></a>
+
+## PetsM4 Theme
+* <a href="https://mobirise.com/extensions/petsm4/">PetsM4 Theme</a> - Contemporary pets website template. It's the ideal choice for animal care organizations, veterinarians and animal clinics.
+
+<a href="https://mobirise.com/extensions/petsm4/"><img src="https://mobirise.com/extensions/petsm4/assets/images/petsm4-2940x1524.jpg"></a>
+
+# Mobirise v4.11.5
+* Issue with images in AMP themes fixed
+* M4 themes are updates with fixes for gallery and shop block filters
+
+# Mobirise v4.11.4
+* Cookies Alert update: added the 'Explicit Consent' option which creates a cookie modal
+* Mobirise4 Theme: fix color change for 'table1' block
+* Editing galleries fixed
+* The LazyLoad extension is available
+
+<img src="https://mobirise.com/assets-history-4/images/cookie-alert-modal.jpg">
+
+## CourseAMP Theme
+* <a href="https://mobirise.com/extensions/courseamp/">CourseAMP Theme</a> - Sleek courses website theme spiced up with nice-looking designs and exciting animations. It's the best fit for online schools and web courses
+Live Demos: University, Consulting.
+
+<a href="https://mobirise.com/extensions/courseamp/"><img src="https://mobirise.com/extensions/courseamp/assets/images/demo-1920x1239.jpg"></a>
+
+# Mobirise v4.11.2
+* Update of Code Editor extension. New features: Edit Block Anchor, Edit Site Styles.
+* Edit user block name
+* Choose a Social sharing image
+* New Site Settings interface
+* Fixed saving Site Styles
+* Fixed publish Popup Builder on several pages in amp themes
+* Fixed captcha
+* Mobirise4 theme: fixed gallery styles, fixed line height
+
+## LuxuryM4 Theme
+* <a href="https://mobirise.com/extensions/luxurym4/">LuxuryM4 Theme</a> - Wish to impress clients with your online luxury store? Easily create one in no longer than a few hours with this exclusive theme.
+
+<a href="https://mobirise.com/extensions/luxurym4/"><img src="https://mobirise.com/extensions/luxurym4/assets/images/screen-1920x661.jpg"></a>
+
+## TrainingAMP Theme
+* <a href="https://mobirise.com/extensions/trainingamp/">TrainingAMP Theme</a> - Creating a great website for sport gyms, workout clubs and individual sportsmen with this website theme is just like 123. Start your own sport website with ease!
+
+<a href="https://mobirise.com/extensions/trainingamp/"><img src="https://mobirise.com/extensions/trainingamp/assets/images/trainingamp-2880x1752.png"></a>
+
+## InsightAMP Theme
+* <a href="https://mobirise.com/extensions/insightamp/">InsightAMP Theme</a> - Impressive corporate template for creating clean and minimalist websites for any kind of business. Increase yur brand exposure with this creative template.
+
+<a href="https://mobirise.com/extensions/insightamp/"><img src="https://mobirise.com/extensions/insightamp/assets/images/insightamp-3108x1382.jpg"></a>
+
+# Mobirise v4.10.10
+* FormBuilder updated: The reCAPTCHA label support
+* PWA Builder updated: iOS Support
+* M4 optimization
+* Facebook authorization fixed for Social Feed (partly)
+
+## PhotoM4 Theme
+* <a href="https://mobirise.com/extensions/luxurym4/">PhotoM4 Theme</a> - Ideal theme for professional and hobby photographers. Build a stylish and clean website to impress anyone with beautiful galleries and portfolios.
+
+<a href="https://mobirise.com/extensions/luxurym4/"><img src="https://mobirise.com/extensions/luxurym4/assets/images/screen-1920x661.jpg"></a>
+
+## WoodM4 Theme
+* <a href="https://mobirise.com/extensions/woodm4/">WoodM4 Theme</a> - Have a carpentry shop, forestry manufacture or timber company? This theme helps you present your woodworks excellently.
+
+<a href="https://mobirise.com/extensions/woodm4/"><img src="https://mobirise.com/extensions/woodm4/assets/images/woodm4-2880x1248.jpg"></a>
+
+# Mobirise v4.10.8
+* Form Builder updated. reCAPTCHA support and form submissions w/o the Mobirise label. More info
+* Countdown blocks updated: floating point numbers supported now
+* The issue with adding global components fixed
+
+<img src="https://mobirise.com/assets-history-4/images/google-captcha.jpg">
+
+# Mobirise v4.10.7
+* Mobirise AMP: new slider block with bullets, new manager for galleries and sliders, you can select the link type now: to full screen image or to your link
+* Page Settings: preview of your page in Google Search
+* Remove unused CSS for AMP: fixes
+* Batch adding images to gallery: fixes
+* Mobirise Publish: now you can publish sites made in M themes
+* Fixes for shop blocks
+
+<img src="https://mobirise.com/assets-history-4/images/preview-g-s.jpg">
+
+
+## PersonaM4 Theme
+* <a href="https://mobirise.com/extensions/personam4/">PersonaM4 Theme</a> - A modern and lovely Bootstrap theme for creatives, freelancers, professionals, and creative studios.
+
+<a href="https://mobirise.com/extensions/personam4/"><img src="https://mobirise.com/assets-history-4/images/personam4-preview.jpg"></a>
+
+## CorporateAMP Theme
+* <a href="https://mobirise.com/extensions/corporateamp/">CorporateAMP Theme</a> - A minimalistic and laconic AMP theme for brands and digital agencies.
+
+<a href="https://mobirise.com/extensions/corporateamp/"><img src="https://mobirise.com/assets-history-4/images/corporateamp-preview.jpg"></a>
+
+## ShopAMP Theme
+* <a href="https://mobirise.com/extensions/shopamp/">ShopAMP Theme</a> - An easy-to-use multipurpose AMP theme for creating websites to promote and offer every kind of services online.
+
+<a href="https://mobirise.com/extensions/shopamp/"><img src="https://mobirise.com/assets-history-4/images/shopamp-preview.jpg"></a>
+
+## DepotAMP Theme
+* <a href="https://mobirise.com/extensions/depotamp/">DepotAMP Theme</a> - This elegant theme is perfect for stores to showcase goods, inform about discounts, present prices, and highlight special offers.
+
+<a href="https://mobirise.com/extensions/depotamp/"><img src="https://mobirise.com/assets-history-4/images/depotamp-preview.jpg"></a>
+
+# Mobirise v4.10.6
+* Templates for sites are available in the app now
+* Placeholder on empty pages
+* The Search field in the Extensions list added
+* The Crop Image functionality fixed
+* Global blocks can be added on all pages and removed from all pages
+* Code Editor is available offline for a longer time
+* Popup Builder improvements: created popup blocks are available on all pages, minor fixes
+
+<img src="https://mobirise.com/assets-history-4/images/templates-for-themes.jpg">
+
+<img src="https://mobirise.com/assets-history-4/images/global-blocks.jpg">
+
+# Mobirise v4.10.5
+* Link Editor updated: messenger link types are added
+* New thumbnails for extensions, the Create New Site dialog is updated
+* Image crop feature updated, fixed for jpg images
+* Fixed disappearing parameter buttons in top right corner of block
+* Minor fixes for Mobirise4
+* Fix update style of global component
+Extensions:
+* PayPal Shopping Cart is updated: new look
+* TechM4: new blocks, update for an accordion block
+* PoliticsM4: reverse block feature for a team block
+* Bug fixes in SimpleAMP, BusinessM4, AgencyM4
+
+<a href="https://mobirise.com/extensions/shopping-cart.html"><img src="https://mobirise.com/assets-history-4/images/paypal-new-sc.jpg"></a>
+
+<a href="https://mobirise.com/"><img src="https://mobirise.com/assets-history-4/images/link-to-whats.jpg"></a>
+
+# Mobirise v4.10.4
+* Editing extension blocks in M themes fixed (for example, popup builder)
+* The menu fix in the MobiriseAMP theme
+* The dropdown menu fix in M4 themes
+* The gallery now keeps images in User Blocks
+* The Extensions list is updated
+
+
+
 ## Popup Builder
 * Create a modal/popup/lightbox with text, image, video, form. <a href="https://mobirise.com/extensions/popup-builder/">Live demo</a>
 
